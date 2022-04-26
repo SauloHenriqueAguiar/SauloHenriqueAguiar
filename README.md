@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"> 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg"> 
   
   
 </div>  
