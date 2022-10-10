@@ -23,18 +23,17 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg>
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">  
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"> 
   
   
