@@ -52,9 +52,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/saulo-henrique-a428861aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  ##
  
- <img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=18902364&theme=dracula"
-/>
+
     
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SauloHenriqueAguiar)](https://git.io/streak-stats)
