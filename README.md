@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
    <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
    <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
     <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg">
      <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">
