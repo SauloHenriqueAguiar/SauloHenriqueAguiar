@@ -34,7 +34,8 @@ Here are some ideas to get you started:
    <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"> 
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
     <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
-    <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
+   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+     <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
    <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
