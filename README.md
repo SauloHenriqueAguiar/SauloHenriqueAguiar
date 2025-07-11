@@ -46,6 +46,7 @@ Here are some ideas to get you started:
      <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">
      <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
       <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg">
+      <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" alt="MLflow"/>
 
   
   
