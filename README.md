@@ -52,8 +52,9 @@ Here are some ideas to get you started:
      <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="Jenkins"/>
      <img src="https://cdn.jsdelivr.net/gh/kubeflow/kubeflow@master/logo/icon.svg" height="40" alt="Kubeflow"/>
      <img src="https://cdn.simpleicons.org/argo" height="40" alt="ArgoCD"/>
-     <img src="https://cdn.simpleicons.org/huggingface/FFBF00" height="40" alt="Hugging Face"/>
-     <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain"/>
+     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face"/>
+     <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain"/>
+
 
 
 
