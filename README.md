@@ -50,7 +50,7 @@ Here are some ideas to get you started:
       <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions"/>
      <img src="https://cdn.simpleicons.org/terraform/623CE4" height="40" alt="Terraform"/>
      <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="Jenkins"/>
-     <img src="assets/icons/kubeflow-icon-color.svg" height="40" alt="Kubeflow"/>
+     <img src="assets/icons/kubeflow-color-icon.svg" height="40" alt="Kubeflow"/>
      <img src="https://cdn.simpleicons.org/argo" height="40" alt="ArgoCD"/>
 
 
