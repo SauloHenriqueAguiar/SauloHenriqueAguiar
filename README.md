@@ -1,5 +1,3 @@
-
-
 ##
  ![](https://komarev.com/ghpvc/?username=SauloHenriqueAguiar)
 ##
@@ -12,37 +10,37 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/SauloHenriqueAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauloHenriqueAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloHenriqueAguiar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://SEU-PROJETO.vercel.app/api?username=SauloHenriqueAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=SauloHenriqueAguiar&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">  
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
- <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"> 
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
-    <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg">
-   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-     <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
-   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
-   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
-    <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg">
-     <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">
-     <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
-      <img align="center" alt="Rafa-Js" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="cplusplus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
+  <img align="center" alt="go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">  
+  <img align="center" alt="css3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> 
+  <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+ <img align="center" alt="flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="mongodb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
+  <img align="center" alt="firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+    <img align="center" alt="sqlite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+   <img align="center" alt="microsoftsqlserver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+     <img align="center" alt="redis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
+  <img align="center" alt="docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="tensorflow" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
+   <img align="center" alt="amazonwebservices" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="azure" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+   <img align="center" alt="apacheairflow" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg">
+    <img align="center" alt="kubernetes" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg">
+     <img align="center" alt="pytorch" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg">
+     <img align="center" alt="apachespark" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg">
+      <img align="center" alt="fastapi" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
       <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" alt="MLflow"/>
       <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions"/>
      <img src="https://cdn.simpleicons.org/terraform/623CE4" height="40" alt="Terraform"/>
@@ -72,11 +70,9 @@ Here are some ideas to get you started:
 
     
 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SauloHenriqueAguiar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SauloHenriqueAguiar&theme=dark)](https://git.io/streak-stats)
 
 ##
  
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=SauloHenriqueAguiar)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://SEU-TROPHY.vercel.app/?username=SauloHenriqueAguiar&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
