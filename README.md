@@ -8,9 +8,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on algotrading strategies of cryptocurrency.
-- 🌱 I’m currently learning docker, api restful
-- 👯 I’m looking to collaborate on framework strategies algorithm investment cryptocyrrency.
 - 📫 How to reach me: saulohjr@hotmail.com
 -->
 <div align="center">
