@@ -6,12 +6,14 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on algotrading strategies of cryptocurrency.
+- 🌱 I’m currently learning docker, api restful
+- 👯 I’m looking to collaborate on framework strategies algorithm investment cryptocyrrency.
 - 📫 How to reach me: saulohjr@hotmail.com
 -->
 <div align="center">
-  <a href="https://github.com/SauloHenriqueAguiar">
-  <img height="180em" src="https://SEU-PROJETO.vercel.app/api?username=SauloHenriqueAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=SauloHenriqueAguiar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img height="180em" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 </div>
   
   ##
@@ -73,6 +75,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SauloHenriqueAguiar&theme=dark)](https://git.io/streak-stats)
 
 ##
- 
-    
-[![trophy](https://SEU-TROPHY.vercel.app/?username=SauloHenriqueAguiar&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
