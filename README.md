@@ -18,10 +18,12 @@ Atuo de ponta a ponta no ciclo de dados e IA, da coleta ao deploy em produção,
 - 🤖 **IA & LLMs:** RAG, fine-tuning e agentes (LangChain/LangGraph, CrewAI, MCP)
 - 🛠️ **Engenharia de Dados:** pipelines em larga escala com Python e Go, em AWS e GCP
 - ⚙️ **MLOps & AIOps:** serving de modelos, CI/CD e observabilidade
+- 💥 **Engenharia do Caos & SRE:** testes de resiliência, injeção de falhas e confiabilidade em produção
+
 
 ### 🔭 Estudando
 
-🏛️ Arquitetura de Software · 🌐 Sistemas Distribuídos · 🛡️ Segurança de IA · 💥 Engenharia do Caos & SRE
+🏛️ Arquitetura de Software · 🌐 Sistemas Distribuídos · 🛡️ Segurança de IA ·
 
 ---
 ---
@@ -99,7 +101,6 @@ Atuo de ponta a ponta no ciclo de dados e IA, da coleta ao deploy em produção,
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" title="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure"/>
 </div>
 
 <h4>MLOps, CI/CD & Plataforma</h4>
