@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre mim
 
-Atuo de ponta a ponta no ciclo de dados e IA, da coleta ao deploy em produção, com foco em soluções **escaláveis, observáveis e autônomas**.
+Atuo de ponta a ponta no ciclo de dados e IA, da coleta ao deploy em produção, com foco em soluções **escaláveis, manuteníveis, resilientes, observáveis e autônomas**.
 
 - 🤖 **IA & LLMs:** RAG, fine-tuning e agentes (LangChain/LangGraph, CrewAI, MCP)
 - 🛠️ **Engenharia de Dados:** pipelines em larga escala com Python e Go, em AWS e GCP
